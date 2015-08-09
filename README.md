@@ -1,4 +1,4 @@
 kpjonsson.github.io
 ===================
 
-Professional resume
+Simple résumé with personal and professional contact info.
